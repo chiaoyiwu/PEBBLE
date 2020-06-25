@@ -1,2 +1,7 @@
-# PEBBLE
-Materials for the PEBBLE project
+# About Myself
+
+## My Position
+Cognitive Neuroscientist
+
+### My Research Interests
+Bilingualism, Biliteracy, fMRI, Neuroimaging
